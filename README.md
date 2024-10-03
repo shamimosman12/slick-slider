@@ -1,2 +1,2 @@
 # slick-slider
-j-query plugin
+https://shamimosman12.github.io/slick-slider/
